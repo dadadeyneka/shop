@@ -1,0 +1,43 @@
+<html>
+<head>
+
+<title> MaxiShop represent<title/>
+<meta name="description" content="Discover the latest in women fashion and men clothing online." />
+<link rel="canonical" href="http://www.MaxiShop.com/" />
+
+<head/>
+<body BGCOLOR="pink" TEXT="black" <H1> <H1> new collection<H1/></H1><HR size="5">
+
+<LH> women</LН>
+<UL>
+<LI><a href="Salewom.html">распродажа</a>
+<LI><a href="newcollection.html">новая коллекция</a>
+<LI><a href="shoesaccsrs.html">0 обувь и аксесуары</a>
+<LI><a href="jeans.html">джинсы</a>
+<LI><a href="tops.html">топы</a>
+<LI><a href="dresses.html">платья</a>
+<LI><a href="jackets.html">куртки и пиджаки</a>
+</UL>
+<LH> men</LН>
+<UL>
+<LI><a href="saleman.html">распродажа</a>
+<LI><a href="new.html">новая колекция</a>
+<LI>shoes & accsrs
+<LI>jeans
+<LI>jackets
+<LI>looks
+<LI>TIES
+<LI>SUITS
+</UL>
+<tfoot>
+<tr>
+<td><a href="about.html">0 Hac</a></td>
+<td><a href="listings.html">contact us</a></td>
+<td><a href="buyer.html">how to pay</a></td>
+<td><a href="delivery.html">delivery</а></td>
+<td><a href="info.html">more info</а></td>
+</tr>
+</tfoot>
+
+<body/>
+<html
